@@ -1,0 +1,294 @@
+2021-07-30 01:04:11.035322
+primes.txt FileNotFoundError
+calculations completed : 0.0sec
+iteration = 1000
+len = 168
+primes saved in primes.txt
+
+2021-07-30 01:05:25.486718
+primes.txt loaded
+calculations completed : 0.10933971405029297sec
+iteration = 10000
+len = 1335
+primes saved in primes.txt
+
+2021-07-30 01:05:28.801035
+primes.txt loaded
+calculations completed : 0.2343144416809082sec
+iteration = 10000
+len = 2360
+primes saved in primes.txt
+
+2021-07-30 01:05:32.677646
+primes.txt loaded
+calculations completed : 0.34363818168640137sec
+iteration = 10000
+len = 3339
+primes saved in primes.txt
+
+2021-07-30 01:09:01.639604
+primes.txt loaded
+calculations completed : 4.920277118682861sec
+iteration = 69000
+len = 9590
+primes saved in primes.txt
+
+2021-07-30 01:11:07.260665
+primes.txt loaded
+calculations completed : 14.261099100112915sec
+iteration = 100000
+len = 17983
+primes saved in primes.txt
+
+2021-07-30 01:25:29.292212
+primes.txt loaded
+calculations completed : 21.774295330047607sec
+iteration = 100000
+len = 25993
+primes saved in primes.txt
+
+2021-07-30 01:25:51.613383
+primes.txt loaded
+calculations completed : 28.928110122680664sec
+iteration = 100000
+len = 33856
+primes saved in primes.txt
+
+2021-07-30 01:28:32.758141
+primes.txt loaded
+calculations completed : 36.3929009437561sec
+iteration = 100000
+len = 41533
+primes saved in primes.txt
+
+2021-07-30 01:29:09.885178
+primes.txt loaded
+calculations completed : 41.783523082733154sec
+iteration = 100000
+len = 49090
+primes saved in primes.txt
+
+2021-07-30 01:29:52.465487
+primes.txt loaded
+calculations completed : 48.546804428100586sec
+iteration = 100000
+len = 56537
+primes saved in primes.txt
+
+2021-07-30 01:30:41.887260
+primes.txt loaded
+calculations completed : 55.96757626533508sec
+iteration = 100000
+len = 63942
+primes saved in primes.txt
+
+2021-07-30 01:31:38.682705
+primes.txt loaded
+calculations completed : 61.48016977310181sec
+iteration = 100000
+len = 71265
+primes saved in primes.txt
+
+2021-07-30 01:32:41.037929
+primes.txt loaded
+calculations completed : 67.41596126556396sec
+iteration = 100000
+len = 78487
+primes saved in primes.txt
+
+2021-07-30 01:33:50.687405
+primes.txt loaded
+calculations completed : 74.19504737854004sec
+iteration = 100000
+len = 85703
+primes saved in primes.txt
+
+2021-07-30 01:35:05.991617
+primes.txt loaded
+calculations completed : 80.69282507896423sec
+iteration = 100000
+len = 92922
+primes saved in primes.txt
+
+2021-07-30 01:36:28.512122
+primes.txt loaded
+calculations completed : 85.48830819129944sec
+iteration = 100000
+len = 100004
+primes saved in primes.txt
+
+2021-07-30 01:37:55.156175
+primes.txt loaded
+calculations completed : 92.42341589927673sec
+iteration = 100000
+len = 107112
+primes saved in primes.txt
+
+2021-07-30 01:39:28.891990
+primes.txt loaded
+calculations completed : 97.54681849479675sec
+iteration = 100000
+len = 114146
+primes saved in primes.txt
+
+2021-07-30 01:41:08.953626
+primes.txt loaded
+calculations completed : 102.62346339225769sec
+iteration = 100000
+len = 121112
+primes saved in primes.txt
+
+2021-07-30 01:42:52.951794
+primes.txt loaded
+calculations completed : 109.26197648048401sec
+iteration = 100000
+len = 128118
+primes saved in primes.txt
+
+2021-07-30 01:44:43.588174
+primes.txt loaded
+calculations completed : 114.78158235549927sec
+iteration = 100000
+len = 135051
+primes saved in primes.txt
+
+2021-07-30 01:46:41.119018
+primes.txt loaded
+calculations completed : 121.07230186462402sec
+iteration = 100000
+len = 142013
+primes saved in primes.txt
+
+2021-07-30 01:48:43.706631
+primes.txt loaded
+calculations completed : 125.74104523658752sec
+iteration = 100000
+len = 148915
+primes saved in primes.txt
+
+2021-07-30 01:50:51.790711
+primes.txt loaded
+calculations completed : 130.95816826820374sec
+iteration = 100000
+len = 155784
+primes saved in primes.txt
+
+2021-07-30 01:53:05.607323
+primes.txt loaded
+calculations completed : 136.58134150505066sec
+iteration = 100000
+len = 162643
+primes saved in primes.txt
+
+2021-07-30 01:55:24.016065
+primes.txt loaded
+calculations completed : 142.56383967399597sec
+iteration = 100000
+len = 169487
+primes saved in primes.txt
+
+2021-07-30 01:57:49.625942
+primes.txt loaded
+calculations completed : 146.96848726272583sec
+iteration = 100000
+len = 176280
+primes saved in primes.txt
+
+2021-07-30 02:00:18.515893
+primes.txt loaded
+calculations completed : 151.96693301200867sec
+iteration = 100000
+len = 183045
+primes saved in primes.txt
+
+2021-07-30 02:02:53.700663
+primes.txt loaded
+calculations completed : 158.83985877037048sec
+iteration = 100000
+len = 189853
+primes saved in primes.txt
+
+2021-07-30 02:05:34.524279
+primes.txt loaded
+calculations completed : 163.90074729919434sec
+iteration = 100000
+len = 196621
+primes saved in primes.txt
+
+2021-07-30 02:08:21.783190
+primes.txt loaded
+calculations completed : 168.90190887451172sec
+iteration = 100000
+len = 203330
+primes saved in primes.txt
+
+2021-07-30 02:11:13.481221
+primes.txt loaded
+calculations completed : 174.35051369667053sec
+iteration = 100000
+len = 210076
+primes saved in primes.txt
+
+2021-07-30 02:14:11.392974
+primes.txt loaded
+calculations completed : 179.43801832199097sec
+iteration = 100000
+len = 216786
+primes saved in primes.txt
+
+2021-07-30 02:17:12.892830
+primes.txt loaded
+calculations completed : 184.28468585014343sec
+iteration = 100000
+len = 223476
+primes saved in primes.txt
+
+2021-07-30 02:20:20.692203
+primes.txt loaded
+calculations completed : 190.47036361694336sec
+iteration = 100000
+len = 230181
+primes saved in primes.txt
+
+2021-07-30 02:23:34.583429
+primes.txt loaded
+calculations completed : 196.1559271812439sec
+iteration = 100000
+len = 236881
+primes saved in primes.txt
+
+2021-07-30 02:26:53.113843
+primes.txt loaded
+calculations completed : 199.0926501750946sec
+iteration = 100000
+len = 243506
+primes saved in primes.txt
+
+2021-07-30 02:30:15.986522
+primes.txt loaded
+calculations completed : 204.06559586524963sec
+iteration = 100000
+len = 250112
+primes saved in primes.txt
+
+2021-07-30 02:33:43.785292
+primes.txt loaded
+calculations completed : 207.44935035705566sec
+iteration = 100000
+len = 256697
+primes saved in primes.txt
+
+2021-07-30 02:37:14.530306
+primes.txt loaded
+calculations completed : 215.63424015045166sec
+iteration = 100000
+len = 263366
+primes saved in primes.txt
+
+2021-07-30 02:40:54.132155
+primes.txt loaded
+calculations completed : 218.2799756526947sec
+iteration = 100000
+len = 269953
+primes saved in primes.txt
+
